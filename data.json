@@ -1,0 +1,13 @@
+{
+  "users": [],
+  "transactions": [],
+  "products": [
+    { "code": "t5", "name": "Telkomsel 5rb", "price": 7000, "category": "pulsa" },
+    { "code": "t10", "name": "Telkomsel 10rb", "price": 12000, "category": "pulsa" },
+    { "code": "t25", "name": "Telkomsel 25rb", "price": 26000, "category": "pulsa" },
+    { "code": "i10", "name": "Indosat 10rb", "price": 11000, "category": "pulsa" },
+    { "code": "x10", "name": "XL 10rb", "price": 11500, "category": "pulsa" },
+    { "code": "pln50", "name": "PLN 50rb", "price": 51500, "category": "pln" },
+    { "code": "pln100", "name": "PLN 100rb", "price": 101500, "category": "pln" }
+  ]
+}
